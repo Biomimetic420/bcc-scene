@@ -1,6 +1,6 @@
 Config = {}
 Config.Debug = false
-Config.Framework = 'vorp' --What framework to use. Options: (vorp, rsg-core)
+Config.Framework = 'rsg-core' --What framework to use. Options: (vorp, rsg-core)
 
 Config.ViewDistance = 5.0
 Config.EditDistance = 2.0
